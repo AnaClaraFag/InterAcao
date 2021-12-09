@@ -1,4 +1,4 @@
-![Logo - InterAção](https://user-images.githubusercontent.com/92732923/145428875-8bb61072-319c-4f37-9080-856ed1931625.png)
+<img src="https://user-images.githubusercontent.com/92732923/145428875-8bb61072-319c-4f37-9080-856ed1931625.png" width="100%;"/> 
 
 <h1 align="center"> Projeto Integrador - Generation Brasil </h1>
 
