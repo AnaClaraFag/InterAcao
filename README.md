@@ -13,20 +13,20 @@
       
       
 #Funcionalidades ⚙️
-<p align="left">
-    <p>  - [x] Adicionar, editar e excluir tarefas;
-    <p>  - [x] Selecionar data e hora para realização das atividades ;
-    <p>  - [x] Criar descrição ou anotação na tarefa adicionada.
+<p align="center">
+     - [x] Adicionar, editar e excluir tarefas;
+     - [x] Selecionar data e hora para realização das atividades ;
+     - [x] Criar descrição ou anotação na tarefa adicionada.
     
           
     
 #Implementações futuras 🛠️
 <p align="left">
-    - Validação de Login
-    - Cadastro de usuário
-    - Lista de tarefas interativa entre usuário
-    - Chat com sindico
-    - Notificações
+   <p> - Validação de Login
+    <p> - Cadastro de usuário
+    <p> - Lista de tarefas interativa entre usuário
+     <p>- Chat com sindico
+     <p>- Notificações
   
       
       
@@ -43,7 +43,7 @@
       
       
 #Tecnologias🧬
- <p align="left">
+ <p align="center">
    - [x] IDE: Android Studio;
    - [x] Linguagem de programação: Kotlin;
  
