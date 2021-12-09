@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/final_p/InterA-oProjet/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/DELL/final_p/InterA-oProjet/app/src/main/res/layout/fragment_form.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/final_p/InterA-oProjet/app/src/main/res/layout/fragment_list.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/DELL/final_p/InterA-oProjet/app/src/main/res/layout/fragment_menu_tela.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/DELL/final_p/InterA-oProjet/app/src/main/res/layout/fragment_tela_login.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/DELL/final_p/InterA-oProjet/app/src/main/res/layout/fragment_tela_logo.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/acfag/AndroidStudioProjects/03122021/TaskPlannerRetrofit031221/app/src/main/res/layout/activity_main.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/acfag/AndroidStudioProjects/03122021/TaskPlannerRetrofit031221/app/src/main/res/layout/card_list.xml" value="0.25" />
+        <entry key="..\:/Users/acfag/AndroidStudioProjects/03122021/TaskPlannerRetrofit031221/app/src/main/res/layout/fragment_form.xml" value="0.264" />
+        <entry key="..\:/Users/acfag/AndroidStudioProjects/03122021/TaskPlannerRetrofit031221/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/acfag/AndroidStudioProjects/03122021/TaskPlannerRetrofit031221/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/acfag/FinalProject/InterA-o/app/src/main/res/layout/card_list.xml" value="0.4" />
+        <entry key="..\:/Users/acfag/FinalProject/InterA-o/app/src/main/res/layout/fragment_form.xml" value="0.6" />
+        <entry key="..\:/Users/acfag/FinalProject/InterA-o/app/src/main/res/layout/fragment_menu_tela.xml" value="0.41702867072111205" />
+        <entry key="..\:/Users/acfag/FinalProject/InterA-o/app/src/main/res/layout/fragment_tela_login.xml" value="0.25" />
+        <entry key="..\:/Users/acfag/FinalProject/InterA-o/app/src/main/res/layout/fragment_tela_logo.xml" value="0.25" />
+        <entry key="..\:/Users/acfag/FinalProject/InterAcao/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/acfag/FinalProject/InterAcao/app/src/main/res/layout/fragment_form.xml" value="0.1" />
+        <entry key="..\:/Users/acfag/FinalProject/InterAcao/app/src/main/res/layout/fragment_list.xml" value="0.1" />
+        <entry key="..\:/Users/acfag/FinalProject/InterAcao/app/src/main/res/layout/fragment_menu_tela.xml" value="0.12552083333333333" />
+        <entry key="..\:/Users/acfag/FinalProject/InterAcao/app/src/main/res/layout/fragment_tela_login.xml" value="0.1" />
+        <entry key="..\:/Users/acfag/FinalProject/InterAcao/app/src/main/res/layout/fragment_tela_logo.xml" value="0.1" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/CardView/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/CardView/app/src/main/res/layout/card_list.xml" value="0.25" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/CardView/app/src/main/res/layout/fragment_form.xml" value="0.25" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/CardView/app/src/main/res/layout/fragment_list.xml" value="0.19" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/InterAcao/app/src/main/res/drawable/button.xml" value="0.1" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/InterAcao/app/src/main/res/drawable/container_components.xml" value="0.1" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/InterAcao/app/src/main/res/drawable/edit_text.xml" value="0.1" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/InterAcao/app/src/main/res/layout/activity_main.xml" value="0.1743659420289855" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/InterAcao/app/src/main/res/layout/fragment_form.xml" value="0.1743659420289855" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/InterAcao/app/src/main/res/layout/fragment_menu_tela.xml" value="0.1743659420289855" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/InterAcao/app/src/main/res/layout/fragment_tela_inicial.xml" value="0.125" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/InterAcao/app/src/main/res/layout/fragment_tela_login.xml" value="0.18" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/InterAcao/app/src/main/res/layout/fragment_tela_logo.xml" value="0.1743659420289855" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/InterAcao/app/src/main/res/layout/fragment_tela_menu.xml" value="0.18" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/InterAcaoNavigation/app/src/main/res/layout/card_list.xml" value="0.25" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/InterAcaoNavigation/app/src/main/res/layout/fragment_form.xml" value="0.22" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/InterAcaoNavigation/app/src/main/res/layout/fragment_list.xml" value="0.22" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/InterAcaoNavigation/app/src/main/res/layout/fragment_menu_tela.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/interAcao/app/src/main/res/layout/fragment_form.xml" value="0.33" />
+        <entry key="..\:/Users/usuario/Desktop/int/TaskPlannerRetrofit/app/src/main/res/layout/fragment_form.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

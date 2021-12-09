@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.core.widget.NestedScrollView xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".TelaMenu">
+
+
+        <ImageView
+            android:id="@+id/fotoPerfil"
+            android:layout_width="128dp"
+            android:layout_height="96dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:src="@drawable/perfilimagem"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/nomeUsuario"
+            android:layout_width="117dp"
+            android:layout_height="39dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="44dp"
+            android:layout_marginEnd="134dp"
+            android:text="LUAN13A"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/fotoPerfil"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/listaPassear"
+            style="@style/ImagemViem"
+            android:layout_width="160dp"
+            android:layout_height="173dp"
+            android:layout_marginTop="21dp"
+            android:layout_marginEnd="26dp"
+            android:src="@drawable/passear"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/listaDoacao" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="411dp"
+            android:layout_height="19dp"
+            android:layout_marginTop="4dp"
+            android:background="#64E7F8"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/fotoPerfil" />
+
+        <ImageView
+            android:id="@+id/listaDoacao"
+            style="@style/ImagemViem"
+            android:layout_width="160dp"
+            android:layout_height="173dp"
+            android:layout_marginTop="62dp"
+            android:layout_marginEnd="26dp"
+            android:src="@drawable/doa__o__1_"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView9" />
+
+        <ImageView
+            android:id="@+id/listaMercado"
+            style="@style/ImagemViem"
+            android:layout_width="160dp"
+            android:layout_height="173dp"
+            android:layout_marginStart="31dp"
+            android:layout_marginTop="60dp"
+            android:layout_marginEnd="34dp"
+            android:clickable="true"
+            android:src="@drawable/merc__1_"
+            app:layout_constraintEnd_toStartOf="@+id/listaDoacao"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView9" />
+
+        <ImageView
+            android:id="@+id/listaLixo"
+            style="@style/ImagemViem"
+            android:layout_width="160dp"
+            android:layout_height="173dp"
+            android:layout_marginStart="31dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="34dp"
+            android:src="@drawable/lixo__1_"
+            app:layout_constraintEnd_toStartOf="@+id/listaPassear"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/listaMercado" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="152dp"
+            android:text="MERCADO"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/listaMercado"
+            app:layout_constraintStart_toStartOf="@+id/listaMercado"
+            app:layout_constraintTop_toTopOf="@+id/listaMercado" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="152dp"
+            android:text="DOAÇÃO"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/listaDoacao"
+            app:layout_constraintHorizontal_bias="0.48"
+            app:layout_constraintStart_toStartOf="@+id/listaDoacao"
+            app:layout_constraintTop_toTopOf="@+id/listaDoacao" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="32dp"
+            android:layout_height="19dp"
+            android:layout_marginTop="152dp"
+            android:text="LIXO"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/listaLixo"
+            app:layout_constraintStart_toStartOf="@+id/listaLixo"
+            app:layout_constraintTop_toTopOf="@+id/listaLixo" />
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="152dp"
+            android:text="PASSEAR"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/listaPassear"
+            app:layout_constraintStart_toStartOf="@+id/listaPassear"
+            app:layout_constraintTop_toTopOf="@+id/listaPassear" />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="40dp"
+            android:text="SELECIONE UMA TAREFA:"
+            android:textColor="#043951"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.core.widget.NestedScrollView>

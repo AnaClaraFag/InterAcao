@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/telaLogoFragment">
+
+    <fragment
+        android:id="@+id/listFragment"
+        android:name="com.example.interacao.ListFragment"
+        android:label="Lista"
+        tools:layout="@layout/fragment_list" >
+        <action
+            android:id="@+id/action_listFragment_to_formFragment"
+            app:destination="@id/formFragment" />
+        <action
+            android:id="@+id/action_listFragment_to_menuTela"
+            app:destination="@id/menuTela" />
+    </fragment>
+    <fragment
+        android:id="@+id/formFragment"
+        android:name="com.example.interacao.FormFragment"
+        android:label="Adicionar tarefa"
+        tools:layout="@layout/fragment_form" >
+        <action
+            android:id="@+id/action_formFragment_to_listFragment"
+            app:destination="@id/listFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/telaLogoFragment"
+        android:name="com.example.interacao.TelaLogoFragment"
+        android:label=""
+        tools:layout="@layout/fragment_tela_logo" >
+        <action
+            android:id="@+id/action_telaLogoFragment_to_telaLogin"
+            app:destination="@id/telaLogin" />
+    </fragment>
+    <fragment
+        android:id="@+id/menuTela"
+        android:name="com.example.interacao.MenuTela"
+        android:label="Menu"
+        tools:layout="@layout/fragment_menu_tela" >
+        <action
+            android:id="@+id/action_menuTela_to_listFragment"
+            app:destination="@id/listFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/telaLogin"
+        android:name="com.example.interacao.TelaLogin"
+        android:label="Login"
+        tools:layout="@layout/fragment_tela_login" >
+        <action
+            android:id="@+id/action_telaLogin_to_menuTela"
+            app:destination="@id/menuTela" />
+    </fragment>
+</navigation>
