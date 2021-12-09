@@ -74,14 +74,15 @@ Este projeto deve ser executado em Android Studio
 
 ## Orientadores 🧑🏽‍🏫
 
+ Um super Obrigada para esses instrutores incriveis 💛 👏 
+
 <table>
   <tr>
-    	 
-	  <td align="center"><a href="https://www.linkedin.com/in/elizabeth-hastings/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQGV_K5KF8CE7A/profile-displayphoto-shrink_800_800/0/1531913155612?e=1623888000&v=beta&t=VVaZvLFZCdzrxgC2QKwa9r3vAd7Ozjk2gU0llYRIzDM" width="100px;" alt="Liza"/><br /><sub><b>Elizabeth Hastings (Liza)</b></sub></a><br /><a href="https://www.linkedin.com/in/elizabeth-hastings/" title="Instrutora Generation Brasil">👨‍🚀</a></td> 
-         <td align="center"><a href="https://www.linkedin.com/in/henriquefelipe/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/57823621?v=4" width="100px;" alt="Henrique"/><br /><sub><b>Henrique Felipe</b></sub></a><br /><a href="https://github.com/" title="Instrutor Generation Brasil">👨‍🚀</a></td>   
+    	  <td align="center"><a href="https://www.linkedin.com/in/henriquefelipe/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C5603AQGQRBX030nNww/profile-displayphoto-shrink_200_200/0/1614185513980?e=1644451200&v=beta&t=MmSBx8CjJnzGUtGSbw8oTCdLu663bJ6FD6ap183ue78" width="100px;" alt="Camila"/><br /><sub><b>Henrique Felipe</b></sub></a><br /><a href="https://www.linkedin.com/in/henriquefelipe/" title="Instrutor Generation Brasil">❤️</a></td> 
+	  <td align="center"><a href="https://www.linkedin.com/in/elizabeth-hastings/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQGV_K5KF8CE7A/profile-displayphoto-shrink_200_200/0/1531913155612?e=1644451200&v=beta&t=RkCXLXnWX1Tjw3KnmMh2lEe_aWC5CPs-ZFwzFzbNPBI" width="100px;" alt="Liza"/><br /><sub><b>Elizabeth Hastings (Liza)</b></sub></a><br /><a href="https://www.linkedin.com/in/elizabeth-hastings/" title="Instrutora Generation Brasil">❤️</a></td> 
+     
 </tr>
 </table>
-
 
 ---
 
