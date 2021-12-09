@@ -82,13 +82,14 @@ Este projeto deve ser executado em Android Studio
 </tr>
 </table>
 
+
 ---
 
 ##  Autores 🧑🏽‍🎓
 
 <table>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/ana-fagundes/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/53885045?v=4" width="100px;" alt="Ana Clara"/><br /><sub><b>Ana Clara Fagundes</b></sub></a><br /><a href="https://github.com/AnaClaraFag" title="Desenvolvedora FullStack Mobile">👨‍🚀</a></td>    <td align="center"><a href="https://www.linkedin.com/in/danilo-alves-6560109b/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/79121527?s=400&u=0489c8337514ef5aecb1307f8cf402def7063810&v=4" width="100px;" alt="Danilo"/><br /><sub><b>Danilo Alves (Dan)</b></sub></a><br /><a href="https://github.com/dcostaalves" title="Desenvolvedor Back End mobile">👨‍🚀</a></td> 
+    <td align="center"><a href="https://www.linkedin.com/in/ana-fagundes/"><img style="border-radius: 50%;" src="![WhatsApp Image 2021-12-05 at 19 50 51](https://user-images.githubusercontent.com/92732923/145437324-c5f9ab78-0b2a-4db1-88cb-a8233d2b7936.jpeg)" width="100px;" alt="Ana Clara"/><br /><sub><b>Ana Clara Fagundes</b></sub></a><br /><a href="https://github.com/AnaClaraFag" title="Desenvolvedora FullStack Mobile">👨‍🚀</a></td>    <td align="center"><a href="https://www.linkedin.com/in/danilo-alves-6560109b/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/79121527?s=400&u=0489c8337514ef5aecb1307f8cf402def7063810&v=4" width="100px;" alt="Danilo"/><br /><sub><b>Danilo Alves (Dan)</b></sub></a><br /><a href="https://github.com/dcostaalves" title="Desenvolvedor Back End mobile">👨‍🚀</a></td> 
    <td align="center"><a href="https://www.linkedin.com/in/guilherme-rasoppi-751b98171/ ><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/78670618?v=4" width="100px;" alt="Gui"/><br /><sub><b>Guilherme Rasoppi (Gui)</b></sub></a><br /><a href=" https://github.com/Guilherme-Rasoppi" title="Desenvolvedor FullStack Mobile">👨‍🚀</a></td>
   <td align="center"><a href="https://www.linkedin.com/in/gustavo-gon%C3%A7alves-4989111ba/"><img style="border-radius: 50%;" src="https://cdn.discordapp.com/attachments/818568460418154537/841695228711796776/Sem_titulo.png" width="100px;" alt="Gustavo"/><br /><sub><b>Gustavo Gonçalves</b></sub></a><br /><a href="https://github.com/GustavoAEG/Generation" title="Desenvolvedor Back End Mobile">👨‍🚀</a></td> 
    <td align="center"><a href="https://www.linkedin.com/in/natalia-tavares-/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/53885045?v=4" width="100px;" alt="Natalia"/><br /><sub><b>Natalia Tavares</b></sub></a><br /><a href="https://github.com/natalia-tavares" title="Desenvolvedora Front End Mobile">👨‍🚀</a></td> 
