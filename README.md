@@ -44,8 +44,8 @@
       
 #Tecnologias🧬
  <p align="center">
-   - [x] IDE: Android Studio;
-   - [x] Linguagem de programação: Kotlin;
+  - [x] IDE: Android Studio;
+  - [x] Linguagem de programação: Kotlin;
  
   
     
