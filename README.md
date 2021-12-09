@@ -12,9 +12,9 @@
 
 #Funcionalidades ⚙️
 <p align="center">
-    - [x]Adicionar, editar e excluir tarefas 
-    - [x]Selecionar data e hora para realização das atividades 
-    - [x]Criar descrição ou anotação na tarefa adicionada 
+    - [x] Adicionar, editar e excluir tarefas 
+    - [x] Selecionar data e hora para realização das atividades 
+    - [x] Criar descrição ou anotação na tarefa adicionada 
     
     
 #Implementações futuras 🛠️
