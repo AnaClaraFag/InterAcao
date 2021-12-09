@@ -41,12 +41,12 @@
 
 ##  Implementações futuras 🛠️
 
-<p> - [ ] Validação de Login;
-<p> - [ ] Cadastro de usuário;
-<p> - [ ] Lista de tarefas interativa entre usuário;
-<p> - [ ] Menu do usuário;
-<p> - [ ] Chat com sindico;
-<p> - [ ] Notificações;
+<p> -  Validação de Login;
+<p> -  Cadastro de usuário;
+<p> -  Lista de tarefas interativa entre usuário;
+<p> -  Menu do usuário;
+<p> -  Chat com sindico;
+<p> -  Notificações;
 
 ##  Layout ✏️📐
 
@@ -89,7 +89,7 @@ Este projeto deve ser executado em Android Studio
 
 <table>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/ana-fagundes/"><img style="border-radius: 50%;" src="" width="100px;" alt="Ana Clara"/><br /><sub><b>Ana Clara Fagundes</b></sub></a><br /><a href="https://github.com/AnaClaraFag" title="Desenvolvedora FullStack Mobile">🕵🏽🏽‍♂️</a></td>    <td align="center"><a href="https://www.linkedin.com/in/danilo-alves-6560109b/"><img style="border-radius: 50%;" src="" width="100px;" alt="Danilo"/><br /><sub><b>Danilo Alves (Dan)</b></sub></a><br /><a href="https://github.com/dcostaalves" title="Desenvolvedor Back End mobile">🕵🏽‍♂️</a></td> 
+    <td align="center"><a href="https://www.linkedin.com/in/ana-fagundes/"><img style="border-radius: 50%;" src="" width="100px;" alt="Ana Clara"/><br /><sub><b>Ana Clara Fagundes</b></sub></a><br /><a href="https://github.com/AnaClaraFag" title="Desenvolvedora FullStack Mobile">🕵🏽</a></td>    <td align="center"><a href="https://www.linkedin.com/in/danilo-alves-6560109b/"><img style="border-radius: 50%;" src="" width="100px;" alt="Danilo"/><br /><sub><b>Danilo Alves (Dan)</b></sub></a><br /><a href="https://github.com/dcostaalves" title="Desenvolvedor Back End mobile">🕵🏽‍♂️</a></td> 
    <td align="center"><a href="https://www.linkedin.com/in/guilherme-rasoppi-751b98171/ ><img style="border-radius: 50%;" src="" width="100px;" alt="Gui"/><br /><sub><b>Guilherme Rasoppi (Gui)</b></sub></a><br /><a href=" https://github.com/Guilherme-Rasoppi" title="Desenvolvedor FullStack Mobile">🕵🏼‍♂️</a></td>
   <td align="center"><a href="https://www.linkedin.com/in/gustavo-gon%C3%A7alves-4989111ba/"><img style="border-radius: 50%;" src="" width="100px;" alt="Gustavo"/><br /><sub><b>Gustavo Gonçalves</b></sub></a><br /><a href="https://github.com/GustavoAEG/Generation" title="Desenvolvedor Back End Mobile">🕵🏽‍♂️</a></td> 
    <td align="center"><a href="https://www.linkedin.com/in/natalia-tavares-/"><img style="border-radius: 50%;" src="" width="100px;" alt="Natalia"/><br /><sub><b>Natalia Tavares</b></sub></a><br /><a href="https://github.com/natalia-tavares" title="Desenvolvedora Front End Mobile">🕵🏼‍♀️</a></td> 
