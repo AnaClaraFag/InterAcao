@@ -10,7 +10,7 @@
  <a href="#-layout">Layout</a> 
  <a href="#-como-executar-o-projeto">Como executar</a> 
  <a href="#-tecnologias">Tecnologias</a> 
- <a href="#-autores">Autora</a> 
+
 </p>
 
 ##Sobre o projeto
@@ -41,7 +41,7 @@
 <p align= "center">
     Este projeto deve ser executado em Android Studio
    
-##Tecnologias
+##Tecnologias🧬
    - [x] IDE: Android Studio;
    - [x] Linguagem de programação: Kotlin;
  
