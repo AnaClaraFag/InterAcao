@@ -6,15 +6,16 @@
 
 
 #Sobre o projeto
-<p align="center">
+<p align="right">
   InterAção é uma aplicação em processo de desenvolvimento que nasceu de uma proposta de organizador de tarefas e evoluiu para tarefas cotidianas compartilhadas entre pessoas de um condominio ou mesma comunidade.
   O app tem por objetivo otimizar as relações em condomínios. Pensando em pessoas com mobilidade limitada, ou com dificuldades para realizar suas tarefas diárias, o app conecta os moradores permitindo que os mesmos dividam uma lista de tarefas que pode ser facilmente ajustada ou adaptada para ajudar outros condôminos. Com design acessível, interAção deseja auxiliar a vida dos condôminos em tarefas diárias, podendo ser utilizado para oferecer ajuda ou solicitar um help
 
+      
 #Funcionalidades ⚙️
-<p align="center">
-    - [x] Adicionar, editar e excluir tarefas </h>
-    - [x] Selecionar data e hora para realização das atividades 
-    - [x] Criar descrição ou anotação na tarefa adicionada 
+<p align="right">
+      - [x] Adicionar, editar e excluir tarefas;
+      - [x] Selecionar data e hora para realização das atividades ;
+      - [x] Criar descrição ou anotação na tarefa adicionada.
     
     
 #Implementações futuras 🛠️
