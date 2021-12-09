@@ -54,6 +54,7 @@ O layout da aplicação está disponível no Marvel:
 [Propótipo Navegável](https://marvelapp.com/prototype/79d2146/screen/83432960)
 
 
+<img src="https://interacao-app.netlify.app/images/WhatsApp_Video_2021-12-09_at_10.47.06.gif" width="170px;" />
 
 
 ##  Como executar o projeto 📱
@@ -89,10 +90,12 @@ Este projeto deve ser executado em Android Studio
 
 <table>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/ana-fagundes/"><img style="border-radius: 50%;" src="" width="100px;" alt="Ana Clara"/><br /><sub><b>Ana Clara Fagundes</b></sub></a><br /><a href="https://github.com/AnaClaraFag" title="Desenvolvedora FullStack Mobile">🕵🏽</a></td>    <td align="center"><a href="https://www.linkedin.com/in/danilo-alves-6560109b/"><img style="border-radius: 50%;" src="" width="100px;" alt="Danilo"/><br /><sub><b>Danilo Alves (Dan)</b></sub></a><br /><a href="https://github.com/dcostaalves" title="Desenvolvedor Back End mobile">🕵🏽‍♂️</a></td> 
-   <td align="center"><a href="https://www.linkedin.com/in/guilherme-rasoppi-751b98171/ ><img style="border-radius: 50%;" src="" width="100px;" alt="Gui"/><br /><sub><b>Guilherme Rasoppi (Gui)</b></sub></a><br /><a href=" https://github.com/Guilherme-Rasoppi" title="Desenvolvedor FullStack Mobile">🕵🏼‍♂️</a></td>
-  <td align="center"><a href="https://www.linkedin.com/in/gustavo-gon%C3%A7alves-4989111ba/"><img style="border-radius: 50%;" src="" width="100px;" alt="Gustavo"/><br /><sub><b>Gustavo Gonçalves</b></sub></a><br /><a href="https://github.com/GustavoAEG/Generation" title="Desenvolvedor Back End Mobile">🕵🏽‍♂️</a></td> 
-   <td align="center"><a href="https://www.linkedin.com/in/natalia-tavares-/"><img style="border-radius: 50%;" src="" width="100px;" alt="Natalia"/><br /><sub><b>Natalia Tavares</b></sub></a><br /><a href="https://github.com/natalia-tavares" title="Desenvolvedora Front End Mobile">🕵🏼‍♀️</a></td> 
+    <td align="center"><a href="https://www.linkedin.com/in/ana-fagundes/"><img style="border-radius: 50%;" src="https://interacao-app.netlify.app/images/Ana.jpeg" width="100px;" height="100px;" alt="Ana Clara"/><br /><sub><b>Ana Clara Fagundes</b></sub></a><br /><a href="https://github.com/AnaClaraFag">Desenvolvedora Mobile Jr <br>🕵🏼‍♀️</br></a></td>  
+	  <td align="center"><a href="https://www.linkedin.com/in/danilo-alves-6560109b/"><img style="border-radius: 50%;" src="https://interacao-app.netlify.app/images/DANILO.jpg" width="100px;" height="100px;" alt="Danilo"/><br /><sub><b>Danilo Alves </b></sub></a><br /><a href="https://github.com/dcostaalves">Desenvolvedor Mobile Jr<br>🕵🏼‍♀️</br></a></td> 
+   <td align="center"><a href="https://www.linkedin.com/in/guilherme-rasoppi-751b98171/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQHYTZrAph7WHQ/profile-displayphoto-shrink_200_200/0/1638135338301?e=1644451200&v=beta&t=wCDh52uTv-nktL_WttiZyMqlIlL8hmtuFSvQvGVpWqo" width="100px;" height="100px;" alt="Gui"/><br /><sub><b>Guilherme Rasoppi</b></sub></a><br /><a href="https://github.com/Guilherme-Rasoppi">Desenvolvedor  Mobile Jr <br>🕵🏼‍♀️</br></a></td> 
+  <td align="center"><a href="https://www.linkedin.com/in/gustavo-gon%C3%A7alves-4989111ba/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/22768375?v=4" width="100px;" height="100px;" alt="Gustavo"/><br /><sub><b>Gustavo Gonçalves</b></sub></a><br /><a href="https://github.com/GustavoAEG/Generation">Desenvolvedor  Mobile Jr <br>🕵🏼‍♀️</br></a></td> 
+   <td align="center"><a href="https://www.linkedin.com/in/natalia-tavares-/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQHbWWFaLw_6hA/profile-displayphoto-shrink_800_800/0/1628639509447?e=1644451200&v=beta&t=gP1wHS2EKnRh-c_t--6oZ3tyV7Eody5n92emdX4ZObQ" width="100px;" height="100px;" alt="Natalia"/><br /><sub><b>Natalia Tavares</b></sub></a><br /><a href="https://github.com/natalia-tavares">Desenvolvedora  Mobile Jr <br>🕵🏼‍♀️</br></a></td> 
+	   
 
   </tr>
   </table>
