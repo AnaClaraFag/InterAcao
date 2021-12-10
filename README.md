@@ -18,7 +18,7 @@
  <a href="#-orientadores">Orientadores</a> 
 </p>
 
-## 📄 Sobre o Projeto 🐝
+## 📄 Sobre o Projeto 📝
 <p align="center"> 
 	InterAção é uma aplicação em processo de desenvolvimento que nasceu de uma proposta de organizador de tarefas e evoluiu para tarefas cotidianas compartilhadas entre pessoas de um condominio ou mesma comunidade.
       O app tem por objetivo otimizar as relações em condomínios. Pensando em pessoas com mobilidade limitada, ou com dificuldades para realizar suas tarefas diárias, o app conecta os moradores permitindo que os mesmos dividam uma lista de tarefas que pode ser facilmente ajustada ou adaptada para ajudar outros condôminos. Com design acessível, interAção deseja auxiliar a vida dos condôminos em tarefas diárias, podendo ser utilizado para oferecer ou solicitar ajuda.
@@ -33,9 +33,9 @@
 
 ##  Funcionalidades ⚙️
 
-- [x] Adicionar, editar e excluir tarefas.
-- [x] Selecionar data e hora para realização das atividades.
-- [x] Criar descrição ou anotação na tarefa adicionada.
+- ✅ Adicionar, editar e excluir tarefas.
+- ✅ Selecionar data e hora para realização das atividades.
+- ✅ Criar descrição ou anotação na tarefa adicionada.
 
 
 
@@ -51,19 +51,40 @@
 ##  Layout ✏️📐
 
 O layout da aplicação está disponível no Marvel:
-[Propótipo Navegável](https://marvelapp.com/prototype/79d2146/screen/83432960)
+[Protótipo  Navegável](https://marvelapp.com/prototype/79d2146/screen/83432960)
 
 
 <img src="https://interacao-app.netlify.app/images/WhatsApp_Video_2021-12-09_at_10.47.06.gif" width="170px;" />
 
 
-##  Como executar o projeto 📱
+##  Como executar o projeto 🖥️
 
-Este projeto deve ser executado em Android Studio
+### Este projeto deve ser executado em Android Studio
+
+Clone o repositório
+
+```bash
+$ git clone https://github.com/AnaClaraFag/InterAcao.git
+```
+
+Siga os passos abaixo
+```bash
+$ git pull 
+```
+
+ Inicie o Android Studio 
+	
+```
+Abra a pasta do arquivo
+Espere carregar todas as bulds 
+▶️ Selecione o Run 
+```
+### Agora você pode acessar do seu emulador.
 
 
 
-## Tecnologias 🧬
+
+## Tecnologias 📱 
 
 - [x] IDE: Android Studio;
 - [x] Linguagem de programação: Kotlin;
